@@ -1,0 +1,10 @@
+h1{
+    font-family: 'Pacifico', cursive;
+}
+div{
+    background-color: darkorange;
+    width:100px;
+    height: 100px;
+    margin: 10px;
+    display: inline-block;
+}
